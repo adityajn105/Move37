@@ -15,3 +15,5 @@ Move37 is a 10-week Reinforcement Learning Course by The School of AI. This is a
 3. Dynamic Programming tutorial
 4. Dynamic Programming Reading Assignments
 5. Value and Policy Iterations
+6. Homework - Frozen Lake Problem with Value and Policy Iterations
+7. 

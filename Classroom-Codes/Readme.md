@@ -13,3 +13,10 @@
 			4. action_value = expected_reward + GAMMA * expected_value
 		2. set V[s] to the best acttion_value found
 	3. repeat step 2-8 until largest change in V[s] is below over threshold
+
+## Week 2 : Policy Iterations and Value Iterations
+1. Policy Iterations includes: policy evaluation + policy improvement and the two are expected iteratively until policy converges.
+2. Value iterations includes: finding optimal value function + one policy extraction. There is no repeat of the two because once the value function is optimal, then the policy out of it should also be optimal.
+3. Finding optimal value function can also be seen as combination of policy improvement (due to max) and truncated policy evaluation.
+4. The algorithm for policy evaluation and finding optimal value function are highly similar except for a max operation.
+5. Similarly, the key steps to policy imporvement and policy extraction are identical except the former involves a stability check.
