@@ -17,3 +17,25 @@ Move37 is a 10-week Reinforcement Learning Course by The School of AI. This is a
 5. Value and Policy Iterations
 6. Homework - Frozen Lake Problem with Value and Policy Iterations
 7. IPhoneX supply chain
+
+## Week 3 - Monte Carlo Methods
+1. Internet of Things Optmisation
+2. Exploration vs Exploitation
+3. Exploration vs Exploitation (Multi Arm Bandits)
+4. Monte Carlo Coding Tutorial
+5. MC Control and MC Prediction
+6. Monte Carlo Methods
+7. Q Learning for trading
+8. Homework Assignment - Monte Carlo
+9. Tensor Processing Units
+
+## Week 4 - Model Free Learning
+1. Dopamine in Neuroscience
+2. Reading Assignments - Model Based vs Model Free Learning
+3. Homework Assignment (Q Learning)
+4. Temporal Difference Learning
+5. Q Learning for Ride Sharing
+6. Quantum Interview
+
+## Week 5 - RL in Continuous Spaces
+1. Inverse and Forward Kinematics

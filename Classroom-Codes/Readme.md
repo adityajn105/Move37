@@ -20,3 +20,4 @@
 3. Finding optimal value function can also be seen as combination of policy improvement (due to max) and truncated policy evaluation.
 4. The algorithm for policy evaluation and finding optimal value function are highly similar except for a max operation.
 5. Similarly, the key steps to policy imporvement and policy extraction are identical except the former involves a stability check.
+6. *Difference* : https://www.quora.com/How-is-policy-iteration-different-from-value-iteration
